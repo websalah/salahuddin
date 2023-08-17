@@ -117,6 +117,7 @@ body {
 .intro img {
     width: 350px;
     height: 350px;
+    pointer-events: none;
 }
 .intro #sketch-1 {
     position: relative;
