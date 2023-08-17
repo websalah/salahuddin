@@ -261,6 +261,9 @@ body {
         flex-direction: column;
         font-size: 2vh;
     }
+    .header p, .header a {
+        font-size: 2.5vh;
+    }
     .wrapper-2 {
         height: 45%;
         flex-direction: column;
