@@ -18,7 +18,7 @@ body {
     display: inline-flex;
 }
 .topnav h2 {
-    font-family: "LeagueSpartan Bold" !important;
+    font-family: "LeagueSpartan Bold";
     padding: 10px;
     display: inline-flex;
     align-items: center;
@@ -235,7 +235,7 @@ body {
         flex-direction: column;
     }
     .topnav h2 {
-        font-family: "LeagueSpartan Medium";
+        font-family: "LeagueSpartan Light";
     }
     .intro {
         align-items: center;
@@ -248,6 +248,7 @@ body {
     }
     .info h3 {
         font-size: 30px;
+        font-family: "LeagueSpartan Light";
     }
     .info h5, .header h5 {
         font-size: 15px;
