@@ -234,6 +234,9 @@ body {
         align-items: center;
         flex-direction: column;
     }
+    .topnav h2 {
+        font-family: "LeagueSpartan Medium";
+    }
     .intro {
         align-items: center;
         flex-direction: column-reverse;
