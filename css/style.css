@@ -167,6 +167,7 @@ body {
 }
 .header {
     height: 100%;
+    width: 100%;
     display: flex;
     flex-flow: column wrap;
     align-items: center;
